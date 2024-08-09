@@ -1,7 +1,3 @@
-I see that you've uploaded a Jupyter notebook titled "Heart Failure Prediction (RandomForest - XGBoost).ipynb". I can help you create a README file for this repository. Below is a template you can use:
-
----
-
 # Heart Failure Prediction using RandomForest and XGBoost
 
 ## Overview
