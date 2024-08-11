@@ -49,7 +49,7 @@ XGBoost (Extreme Gradient Boosting) is a scalable and accurate implementation of
 
 2. Navigate to the project directory:
    ```bash
-   cd heart-failure-prediction
+   cd Heart-Failure-Prediction-RandomForest-XGBoost
    ```
 
 3. Install the required packages:
