@@ -44,7 +44,7 @@ XGBoost (Extreme Gradient Boosting) is a scalable and accurate implementation of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Moaz0009/heart-failure-prediction.git
+   git clone https://github.com/Moaz0009/Heart-Failure-Prediction-RandomForest-XGBoost.git
    ```
 
 2. Navigate to the project directory:
